@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Bisma Nawaz!
 
 ### 💻 About Me
-- 🚀 Aspiring software developer with a passion for creating scalable and user-friendly applications.
-- 🎓 Experienced in **React**, **Svelte**, **NodeJS**, and backend services like **Supabase**.
-- 🌱 Currently improving my knowledge of **web architecture** and **MVC frameworks**.
+- 🚀 Software developer with a passion for creating impactful and user-friendly applications.
+- 🎓 Experienced in **React**, **Python**, **NodeJS**, and backend services like **MongoDB** and **SQLite**.
+- 🌱 Currently improving my knowledge of **AI development** and implementation in web applications.
 
 ### 🛠️ Projects
 - **[Learnova AI](https://github.com/bisma-nawaz/Learnova-AI):** AI-powered educational platform for personalized learning experiences.
