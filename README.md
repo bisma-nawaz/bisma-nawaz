@@ -9,7 +9,7 @@
 - **[Learnova AI](https://github.com/bisma-nawaz/Learnova-AI):** AI-powered educational platform for personalized learning experiences.
 - **[Ratatouille](https://github.com/bisma-nawaz/healthyplateAI):** AI-powered recipe generation platform based on user health conditions and dietary restrictions.
 - **[Note Keeper](https://github.com/bisma-nawaz/bisma-mern-10pshine):** Notes management platform with a unique feature of "Share Notes" with Gmail notifications. 
-- **[JAM: Host a Quiz](https://github.com/TorqueKill/PO1_JAM):** Interactive trivia app inspired by Kahoot.
+- **[JAM: Host a Quiz](https://github.com/TorqueKill/P01_JAM):** Interactive trivia app inspired by Kahoot.
 - **[LDFx](https://github.com/UmarRamzan/LDFx):** Platform for course swaps, job opportunities, and donation drives.
 - **[Library Management System](https://github.com/bisma-nawaz/library-management-system):** Role-based library management system for book borrowing, returning, and inventory management.
 
