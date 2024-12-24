@@ -20,8 +20,6 @@
 - **Programming Languages:** C++, Python, HTML, CSS, SQL
 - **Other Tools:** Git, Vercel, Command Line (Terminal), Figma
 
-### 📈 GitHub Stats (Low as most of the work is in private repositories.)
-![Bisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisma-nawaz&show_icons=true&theme=dark)
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/bisma-nawaz](#)
+- **Email:** [bismnawaz@gmail.com](#)
