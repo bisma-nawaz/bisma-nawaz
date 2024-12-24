@@ -3,7 +3,7 @@
 ### 💻 About Me
 - 🚀 Software developer with a passion for creating impactful and user-friendly applications.
 - 🎓 Experienced in **React**, **Python**, **NodeJS**, and backend services like **MongoDB** and **SQLite**.
-- 🌱 Currently improving my knowledge of **AI development** and implementation in web applications.
+- 🌱 Currently improving my knowledge of **Generative AI** and its implementation in web applications.
 
 ### 🛠️ Projects
 - **[Learnova AI](https://github.com/bisma-nawaz/Learnova-AI):** AI-powered educational platform for personalized learning experiences.
