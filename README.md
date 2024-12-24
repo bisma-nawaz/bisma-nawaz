@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Bisma Nawaz!
 
-<!--
-**bisma-nawaz/bisma-nawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🚀 Aspiring software developer with a passion for creating scalable and user-friendly applications.
+- 🎓 Experienced in **React**, **Svelte**, **NodeJS**, and backend services like **Supabase**.
+- 🌱 Currently improving my knowledge of **web architecture** and **MVC frameworks**.
 
-Here are some ideas to get you started:
+### 🛠️ Projects
+- **[Learnova AI](https://github.com/bisma-nawaz/Learnova-AI):** AI-powered educational platform for personalized learning experiences.
+- **[JAM: Host a Quiz](https://github.com/TorqueKill/PO1_JAM):** Interactive trivia app inspired by Kahoot.
+- **[LDFx](https://github.com/UmarRamzan/LDFx):** Platform for course swaps, job opportunities, and donation drives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Skills
+- **Frontend:** React, Svelte, TypeScript
+- **Backend:** NodeJS, Supabase, FAST API
+- **Other Tools:** Git, Vercel, Pino Logger
+
+### 📈 GitHub Stats
+![Bisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisma-nawaz&show_icons=true&theme=dark)
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Your Profile](#)
+- **Portfolio:** [Your Website](#)
