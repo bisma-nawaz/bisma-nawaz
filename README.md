@@ -12,6 +12,7 @@
 - **[JAM: Host a Quiz](https://github.com/TorqueKill/P01_JAM):** Interactive trivia app inspired by Kahoot.
 - **[LDFx](https://github.com/UmarRamzan/LDFx):** Platform for course swaps, job opportunities, and donation drives.
 - **[Library Management System](https://github.com/bisma-nawaz/library-management-system):** Role-based library management system for book borrowing, returning, and inventory management.
+- **[SphereHomes](https://github.com/bisma-nawaz/SphereHomes):** A modern web application for searching and viewing property listings based on postcodes and radius in the UK.
 
 
 ### 🌟 Skills
