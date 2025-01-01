@@ -1,3 +1,5 @@
+<div align = "center>
+
 # 👋 Hi, I'm Bisma Nawaz!
 
 ### 💻 About Me
@@ -24,3 +26,4 @@
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/bisma-nawaz](#)
 - **Email:** [bismnawaz@gmail.com](#)
+</div>
