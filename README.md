@@ -23,4 +23,3 @@
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/bisma-nawaz](#)
-- **Email:** [bismnawaz@gmail.com](#)
