@@ -17,7 +17,7 @@
 
 ### 🌟 Skills
 - **Frontend:** React, TypeScript, JavaScript (JS), Svelte
-- **Backend:** NodeJS, Python, Supabase
+- **Backend:** NodeJS, Python
 - **Programming Languages:** C++, Python, HTML, CSS, SQL
 - **Other Tools:** Git, Vercel, Command Line (Terminal), Figma
 
